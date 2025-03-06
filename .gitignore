@@ -1,0 +1,7 @@
+/synthetic_data/
+/aws_data/
+/test/
+/train/
+/__pycache__/
+*.pt
+*.pth
